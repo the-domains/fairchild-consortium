@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What is a consortium?
-datePublished: '2016-06-21T21:27:25.897Z'
-dateModified: '2016-06-21T21:26:38.407Z'
+datePublished: '2016-06-21T22:13:21.245Z'
+dateModified: '2016-06-21T22:12:36.676Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-what-is-fairchild-consortium.md
@@ -17,7 +17,7 @@ url: what-is-fairchild-consortium/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2209be4a-fe3b-4b64-b327-8e615278e9d5.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/585ff933d739c8125578e67f0796d695/croprotate.png?cropheight=768&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2209be4a-fe3b-4b64-b327-8e615278e9d5.png&x=0&y=0)
 
 **What is a consortium?**
 
