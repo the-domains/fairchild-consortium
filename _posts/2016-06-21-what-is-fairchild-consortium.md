@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What is a consortium?
-datePublished: '2016-06-21T21:24:21.104Z'
-dateModified: '2016-06-21T21:24:07.503Z'
+datePublished: '2016-06-21T21:27:25.897Z'
+dateModified: '2016-06-21T21:26:38.407Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-21-what-is-fairchild-consortium.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-what-is-fairchild-consortium.md
 url: what-is-fairchild-consortium/index.html
 _type: Article
 
