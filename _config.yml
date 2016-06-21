@@ -1,7 +1,8 @@
 name: Fairchild Consortium
 favicon: null
-layout_spectrum: 0.07404469978064299
-typography_spectrum: 0.017643566709011793
+layout_spectrum: 1
+typography_spectrum: 0.50553
+title: Fairchild Consortium
 cta:
   domain: null
   bucket: null
@@ -16,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.05443622567690909
+    - '#ffffff'
+    - '#555555'
+    - '#a9a9a9'
+    - '#353535'
+    - '#151515'
+  brandStrength: 0.125
   lightness: 0.34351557050831616
   saturation: 0.4256200850941241
   rhythmicContrast: 0.9041742426343262
