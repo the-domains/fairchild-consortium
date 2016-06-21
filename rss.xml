@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fairchild Consortium]]></title>
         <description><![CDATA[Fairchild Consortium]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fairchild-consortium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 21:24:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 21:27:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fairchild-consortium/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What Is Fairchild Consortium?]]></title>
             <description><![CDATA[<p>What is a consortium?</p>]]></description>
-            <link>undefinedwhat-is-fairchild-consortium/index.html</link>
+            <link>https://thegrid.ai/fairchild-consortium/what-is-fairchild-consortium/index.html</link>
             <guid isPermaLink="false">e5c4bdc4-9563-426f-874b-350e44eab9a8</guid>
-            <pubDate>Tue, 21 Jun 2016 21:24:21 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 21:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
