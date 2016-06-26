@@ -4,21 +4,21 @@
         <description><![CDATA[Fairchild Consortium]]></description>
         <link>https://thegrid.ai/fairchild-consortium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 22:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 21:05:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fairchild-consortium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2015 and Beyond]]></title>
+            <description><![CDATA[<p>Fairchild Consortium has made some bold moves as far as business structure and culture. We are unlike any other studio because we are utilizing bits and pieces from contemporary business and creative leaders. </p>]]></description>
+            <link>https://thegrid.ai/fairchild-consortium/2015-and-beyond/index.html</link>
+            <guid isPermaLink="false">370e3913-894c-4870-8f7e-7368f1e8d368</guid>
+            <pubDate>Sun, 26 Jun 2016 21:05:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Fairchild Consortium?]]></title>
             <description><![CDATA[<p>What is a consortium?</p>]]></description>
             <link>https://thegrid.ai/fairchild-consortium/what-is-fairchild-consortium/index.html</link>
             <guid isPermaLink="false">e5c4bdc4-9563-426f-874b-350e44eab9a8</guid>
             <pubDate>Wed, 22 Jun 2016 22:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2015 and Beyond]]></title>
-            <description><![CDATA[<p>Fairchild Consortium has made some bold moves as far as business structure and culture. We are unlike any other studio because we are utilizing bits and pieces from contemporary business and creative leaders. </p>]]></description>
-            <link>https://thegrid.ai/fairchild-consortium/2015-and-beyond/index.html</link>
-            <guid isPermaLink="false">370e3913-894c-4870-8f7e-7368f1e8d368</guid>
-            <pubDate>Tue, 21 Jun 2016 22:10:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
