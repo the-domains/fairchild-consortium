@@ -9,16 +9,16 @@ description: >-
   challenging us to imagine and create. We want to thank them for allowing us to
   take their initial ideas and explore different, and sometimes better design
   solutions. We look forward to continually work with you.
-datePublished: '2016-08-02T23:06:59.952Z'
-dateModified: '2016-08-02T23:06:03.758Z'
+datePublished: '2016-08-02T23:10:41.664Z'
+dateModified: '2016-08-02T23:07:01.803Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-02-first-and-foremost-fairchild-consortium-would-like-to-thank.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-02-first-and-foremost-fairchild-consortium-would-like-to-thank.md
 url: first-and-foremost-fairchild-consortium-would-like-to-thank/index.html
 _type: Article
 
