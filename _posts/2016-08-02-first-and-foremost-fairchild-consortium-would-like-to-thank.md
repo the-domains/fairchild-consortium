@@ -9,8 +9,8 @@ description: >-
   challenging us to imagine and create. We want to thank them for allowing us to
   take their initial ideas and explore different, and sometimes better design
   solutions. We look forward to continually work with you.
-datePublished: '2016-08-02T23:10:41.664Z'
-dateModified: '2016-08-02T23:07:01.803Z'
+datePublished: '2016-08-02T23:12:51.203Z'
+dateModified: '2016-08-02T23:10:44.037Z'
 title: ''
 author: []
 via: {}
