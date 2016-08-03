@@ -9,8 +9,8 @@ description: >-
   challenging us to imagine and create. We want to thank them for allowing us to
   take their initial ideas and explore different, and sometimes better design
   solutions. We look forward to continually work with you.
-datePublished: '2016-08-02T23:15:54.898Z'
-dateModified: '2016-08-02T23:12:58.443Z'
+datePublished: '2016-08-03T00:47:01.818Z'
+dateModified: '2016-08-03T00:43:16.739Z'
 title: ''
 author: []
 via: {}
@@ -23,8 +23,7 @@ url: first-and-foremost-fairchild-consortium-would-like-to-thank/index.html
 _type: Article
 
 ---
-'Til Infinity
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c87e3067-b10e-407c-9826-6a9ba227daf9.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f990753-460f-4b1c-b1a2-2bc93d245bc5.png)
 
 First and foremost, Fairchild Consortium would like to thank our clients for challenging us to imagine and create. We want to thank them for allowing us to take their initial ideas and explore different, and sometimes better design solutions. We look forward to continually work with you.
 
